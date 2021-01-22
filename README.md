@@ -1,6 +1,6 @@
 # eCommerce-Site
 
-I created this basic Ecommerce Web Site . In this Project I Provide many things , like create cartthen login , logout , sign up, etc.
+I created this basic Ecommerce Web Site . In this Project I Provide many things , like create cart then login , logout , sign up, etc.
 
 * Technologies *
 
