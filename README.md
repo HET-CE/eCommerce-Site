@@ -4,6 +4,6 @@ I created this basic Ecommerce Web Site . In this Project I Provide many things 
 
 * Technologies *
 
-For Front-end : HTML , CSS , JAVASCRIPT
+For Front-end : Bootstrap , JAVASCRIPT , Jquery(JS library)
 For Back-end : Python and Django framework
-database : db.sqlite3 which provided in Django as default.
+database : db.sqlite3
